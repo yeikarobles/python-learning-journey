@@ -1,5 +1,7 @@
 My Python Journey
 
+![Progress](https://progress-bar.dev/10/?scale=100&title=progress&width=500&color=verdigris&suffix=%)
+
 PROGRESS:
 
 [x] Day 1
